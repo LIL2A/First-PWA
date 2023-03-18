@@ -1,0 +1,47 @@
+.formacao{
+    margin: 10px;
+}
+
+.informacoes{
+    margin: 10px 10px 0px 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: #49555B;
+    border-radius:15px;
+    color: white;
+    padding: 10px 20px;
+}
+
+.informacoes p{
+    font-size: 18px;
+    margin: 0px;
+    color: #e3e3e3;
+}
+
+a{
+    color:#000;
+}
+
+.linguagens{
+    display: flex;
+    flex-wrap: wrap;
+    gap:18px;
+    justify-content: space-around;
+    background-color: #49555B;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+
+.linguagens img{
+    width: 100px;
+    
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

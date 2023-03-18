@@ -1,0 +1,15 @@
+{
+    "name": "first-pwa",
+    "short_name": "first-pwa",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/img/MB.ico",
+        "sizes": "256x256",
+        "type": "image/png"
+      }
+    ]
+  }
